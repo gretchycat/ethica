@@ -46,7 +46,7 @@ fi
 
 # Include CSS if present
 if [ -f "$CSS" ]; then
-  CMD+=" --css=\"$CSS\""
+  CMD+=" --css=\"$CSS\"" # --standalone"
   echo "✅ Using stylesheet: $CSS"
 fi
 
