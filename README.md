@@ -12,3 +12,4 @@ With a tone that’s both accessible and profound, Gretchen challenges us to loo
 This is not a rulebook.
 It’s a toolkit for building a better world.
 
+Licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
